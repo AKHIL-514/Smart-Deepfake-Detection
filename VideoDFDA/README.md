@@ -340,14 +340,13 @@ Free for research and educational use with proper attribution.
 * **Dataset:** [FaceForensics++ Extracted Dataset C23](https://www.kaggle.com/datasets/fatimahirshad/faceforensics-extracted-dataset-c23)
 * **Frameworks:** PyTorch, Streamlit, OpenCV, TIMM, Scikit-Learn
 * **Hardware:** NVIDIA RTX 3050 6GB GPU
-* **Author:** [Jayanth Bottu](https://www.linkedin.com/in/jayanthbottu/)
+* **Author:** [Akhil]
 
 ---
 
 ## 📞 Contact
 
-**Author:** Jayanth Bottu
-🔗 LinkedIn: [linkedin.com/in/jayanthbottu](https://www.linkedin.com/in/jayanthbottu/)
+**Author:** AKHIL
 
 ---
 
