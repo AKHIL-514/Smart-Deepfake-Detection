@@ -101,7 +101,7 @@ if uploaded_file is not None:
     st.pyplot(fig)
 
     st.markdown("---")
-    st.markdown("**Developed by Jayanth** | Deepfake Video Detection | PyTorch + Streamlit")
+    st.markdown("**Developed by Akhil** | Deepfake Video Detection | PyTorch + Streamlit")
 
 else:
     st.info("👆 Please upload a video file to start detection.")
