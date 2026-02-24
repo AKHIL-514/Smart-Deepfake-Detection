@@ -1281,11 +1281,9 @@ def main():
             <p style="margin: 0;">Powered by Deep Learning
                     Developed by:</p>
             <p style="margin: 0.3rem 0 0 0;">
-                    2303A51L99 - Sri Varsha Janagam<br>
-                    2303A51LA0 - Sindhu Kodati<br>
-                    2303A51LA7 - Jayanth Bottu<br>
-                    2303A51LA9 - Mahandra Gaddam<br>
-                    2303A51LB0 - Nikhil Kuchana
+                    23265A0514 - Akhil Dubaka<br>
+                    23265A0516 - Anurag Bhookya<br>
+                    23265A0509 - Srinivas Bhukya
                     </p>
         </div>
         """, unsafe_allow_html=True)
